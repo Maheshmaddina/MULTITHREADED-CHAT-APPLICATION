@@ -80,7 +80,7 @@ This project demonstrates the core concepts of client-server architecture and co
 Client side 
 
 If someone from sever sends a message
-
+![Image](https://github.com/user-attachments/assets/235d90f8-b3a6-407d-95d2-f7836c077b7d)
 you will in this terminal
 
 now as a client:
