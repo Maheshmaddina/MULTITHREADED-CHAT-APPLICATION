@@ -77,19 +77,47 @@ This project demonstrates the core concepts of client-server architecture and co
 
 
 # OUTPUT
-Client side 
+Client side:
 
-If someone from sever sends a message
 ![Image](https://github.com/user-attachments/assets/235d90f8-b3a6-407d-95d2-f7836c077b7d)
-you will in this terminal
+
+
+If someone from sever sends a message:
+
+![Image](https://github.com/user-attachments/assets/06a8c353-b632-43a0-9dd8-44f584a2f864)
+
+
+
+you will in this terminal:
+
+![Image](https://github.com/user-attachments/assets/b24c1a17-be9e-41a0-9a26-3a5547120961)
+
+
 
 now as a client:
 
+![Image](https://github.com/user-attachments/assets/8f26ac7b-5827-407e-8651-11d5772b702b)
+
+
+
 you will see:
 
-When you type Exit:
+![Image](https://github.com/user-attachments/assets/88313031-f359-44bc-92cc-bd849ef2b70d)
 
-the client will disconnect
+
+
+When you type Exit:
+![Image](https://github.com/user-attachments/assets/d194d471-d8d9-41e8-a8c5-ad93b423923a)
+
+
+
+the client will disconnect:
+
+![Image](https://github.com/user-attachments/assets/23794f0c-af55-4c4d-91d4-e13c6f36249d)
+
+
 
 if there is a connection problem, the client terminal will show like this:
+
+![Image](https://github.com/user-attachments/assets/a28c113e-d375-4db1-b05e-62da2780c6dc)
 
